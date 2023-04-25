@@ -11,3 +11,6 @@ and this server was deployed using render.com . both vercel and render.com was s
 github account abubakar471
 
 client url : https://websocket-chat-app-frontend.vercel.app/
+
+this is the github rep for this app's backend :
+https://github.com/abubakar471/websocket-chat-app-backend.git
